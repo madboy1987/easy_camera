@@ -1,7 +1,4 @@
 library easy_camera;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+import 'package:camera/camera.dart';
+part 'cameras.dart';
